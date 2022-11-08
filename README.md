@@ -1,9 +1,18 @@
 # Hi, I'm Florian 👋
 
-I'm a DevSecOps Engineer working at [**cluetec GmbH**](https://cluetec.de), a german software company placed in Karlruhe.
-For more personal informations you can take a look at my private GitHub Account.
+I'm a DevSecOps Engineer working at [**<img src="https://avatars.githubusercontent.com/u/11868450" alt="cluetec icon" style="width: 1em" /> cluetec GmbH**](https://cluetec.de), a german software company placed in Karlruhe. For more personal information you can take a look at my private GitHub Account
 
 👨‍💻 My private GitHub Account: <a href="https://github.com/florianrusch" title="GitHub - florianrusch"><img src="https://img.shields.io/badge/GitHub-florianrusch-white?style=flat&logo=github&logoColor=white" height="18" style="vertical-align: text-top;" /></a>
+
+## <img src="https://avatars.githubusercontent.com/u/11868450" alt="cluetec icon" style="width: 1em" /> Who is cluetec GmbH?
+
+cluetec is a software company based in Karlsruhe, Germany. You can find detailed information about cluetec on this pages:
+
+- [🌍 Website](https://www.cluetec.de/en/)
+- [💼 Carriere](https://www.cluetec.de/unternehmen/karriere-bei-cluetec/)
+- [🏆 Success Stories](https://www.cluetec.de/en/success-stories/)
+- [⚖️ Privacy Policy](https://www.cluetec.de/en/privacy-policy-220803/)
+- [⚖️ Legal Notice](https://www.cluetec.de/en/legal-notice/)
 
 ## 🤳 Where you can find me (privately)
 

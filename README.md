@@ -1,12 +1,12 @@
 # Hi, I'm Florian 👋
 
-I'm a DevSecOps Engineer working at [**<img src="https://avatars.githubusercontent.com/u/11868450" alt="cluetec icon" style="width: 1em" /> cluetec GmbH**](https://cluetec.de), a german software company placed in Karlruhe. For more personal information you can take a look at my private GitHub Account
+I am a Senior DevSecOps Engineer and work at [**<img src="https://avatars.githubusercontent.com/u/11868450" alt="cluetec icon" style="width: 1em" /> cluetec GmbH**](https://cluetec.de), a German software company based in Karlruhe. For more personal information you can have a look at my private GitHub account.
 
 👨‍💻 My private GitHub Account: <a href="https://github.com/florianrusch" title="GitHub - florianrusch"><img src="https://img.shields.io/badge/GitHub-florianrusch-white?style=flat&logo=github&logoColor=white" height="18" style="vertical-align: text-top;" /></a>
 
 ## <img src="https://avatars.githubusercontent.com/u/11868450" alt="cluetec icon" style="width: 1em" /> Who is cluetec GmbH?
 
-cluetec is a software company based in Karlsruhe, Germany. You can find detailed information about cluetec on this pages:
+cluetec is a software company based in Karlsruhe, Germany. You can find detailed information about cluetec on these pages:
 
 - [🌍 Website](https://www.cluetec.de/en/)
 - [💼 Carriere](https://www.cluetec.de/unternehmen/karriere-bei-cluetec/)
@@ -16,7 +16,7 @@ cluetec is a software company based in Karlsruhe, Germany. You can find detailed
 
 ## 🤳 Where you can find me (privately)
 
-Here are some other places you can find me on the internet:
+Here are some other places where you can find me on the Internet:
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/florian_rusch)
 [![Xing](https://img.shields.io/badge/Xing-green?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Florian_Rusch)
